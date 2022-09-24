@@ -29,6 +29,8 @@ This project is focused on the weather analysis in Budapest, the model is based 
    Conclusions
 </h2>
 
+- SVM model results: 
+
   <img src="https://github.com/mkowalsky97/Weather_Prediction/blob/main/raport.png" width="400"/>
   <img src="https://github.com/mkowalsky97/Weather_Prediction/blob/main/matrix.png" width="400"/>
 
