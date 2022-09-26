@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}RESULTS{% endblock %}
+{%block content%}
+<h2> Prediction: </h2> {{prediction}}
+<br>
+<br>
+<a href="{{ url_for('home') }}">
+    <input class="btn btn-outline-danger" type="button" value="RETURN" />
+</a>
+{%endblock%}
